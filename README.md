@@ -11,18 +11,22 @@
 WeUI-Aliapp 是通过 [Antmove](https://ant-move.github.io/website/)  小程序转换器基于 WeUI 项目转换得到。
 
 ## 预览
-用[支付宝小程序开发者工具](https://docs.alipay.com/mini/ide/download)打开`alipay/weui`目录
+用[支付宝小程序开发者工具](https://docs.alipay.com/mini/ide/download)打开`alipay/WeUI-AliApp` 目录
+
+> [百度 IDE 预览](https://smartprogram.baidu.com/docs/develop/devtools/history/), 打开 `baidu/WeUI-BaiduApp` 目录
 
 ## 图片预览
 
 按顺序分别为微信/支付宝/百度展示情况。
 
-<img style='width:200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/wx.png'><img style='width:200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/ali.png'><img style='width:200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/bd.png'>
+<img width='200' style='width:200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/wx.png'><img width='200' style='width:200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/ali.png'><img width='200' style='width:200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/bd.png'>
 
 ## 使用
 
 - 组件的 axml 结构请看`dist/example/`下的组件
 - 样式文件可直接引用`dist/style/weui.acss`，或者单独引用`dist/style/widget`下的组件的`acss`
+
+> 百度小程序版本类似的使用方法。
 
 
 ## 文档
