@@ -17,7 +17,7 @@ WeUI-Aliapp 是通过 [Antmove](https://ant-move.github.io/website/)  小程序�
 
 按顺序分别为微信/支付宝/百度展示情况。
 
-<img style='200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/wx.png'><img style='200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/ali.png'><img style='200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/bd.png'>
+<img style='width:200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/wx.png'><img style='width:200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/ali.png'><img style='width:200px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/bd.png'>
 
 ## 使用
 
