@@ -1,9 +1,8 @@
 # WeUI-App for 小程序
-=====
 
-## [WeUI](./wx)
-## [WeUI-AliApp](./alipay)
-## [WeUI-BaiduApp](./baidu)
+* [WeUI](./wx)
+* [WeUI-AliApp](./alipay)
+* [WeUI-BaiduApp](./baidu)
 
 ## 概述
 
