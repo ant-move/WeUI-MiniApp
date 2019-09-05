@@ -1,0 +1,28 @@
+{
+    "name": "weui-aliapp",
+    "version": "1.0.0",
+    "description": "weui alipay mini app components",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "antmove wx-alipay -i ./wx/weui -o ./alipay/WeUI-AliApp",
+      "build-baidu": "antmove alipay-baidu -i ./alipay/WeUI-AliApp -o ./baidu/WeUI-BaiduApp",
+      "build-npm": "rm -rf dist && babel alipay/weui -d dist",
+      "pub": "npm run build && npm publish"
+    },
+    "files": [
+      "dist"
+    ],
+    "devDependencies": {
+      "@babel/cli": "^7.0.0",
+      "@babel/core": "^7.5.5",
+      "@babel/preset-env": "^7.5.5"
+    },
+    "publishConfig": {
+      "access": "public",
+      "registry": "https://registry.npmjs.org/"
+    },
+    "author": "amap-appx@service.autonavi.com",
+    "license": "GPL-3.0"
+  }
+  
